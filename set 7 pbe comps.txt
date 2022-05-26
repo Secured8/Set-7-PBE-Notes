@@ -1,4 +1,6 @@
-Last edited on the 26/05/2022
+Last edited on 26/05/2022
+
+PBE Patch 25/05 
 
 SET 7 PBE COMPS I'VE TRIED
 - 6 whispers Syfen carry 
@@ -17,9 +19,8 @@ Yet to try
 - Linear shimmerscale
 - Mirage | Yone reroll, daeja yas duo carry
 - Astral reroll
-- Trainer reroll
 - Scalescorn Olaf carry
-- Cannoneer trist reroll
+- Cannoneer + trainer trist reroll
 - Diana reroll
 
 THE TECH 
@@ -27,11 +28,13 @@ THE TECH
 - Whisper xayah (credit to showtime/emitwohs who played this in a lobby with soju. same logic to why daeja is broken with whisper) 
 - Sin neeko (yet to try but seems strong in theory)
 - Gadget expert but shiv spam and make ezreal hold items | Reroll swiftshots
-- Heroic presence | Tried this and actually broken just reroll guardians
+- Heroic presence | Reroll guardians when playing this augment. Has a bad matchup into whispers since they get infinite stacks since fights last very long + shred armour and mr. Very good against carries who auto or cast alot. 
 - Elise carry | Bis being ie jg gs and is actually pretty decent just go 6 whisper with syfen duo carry (soju proved this is lowkey nuts and elise gets infinite resets + untargetable) 
 - Swift spat jinx and reroll her | She perma casts meaning perma stun on backline while your swiftshots kill their whole team
-- Revel xayah (got balanced so not sure if strong anymore) 
-- Mage spat on Ao shin, Asol, Bard 
+- Revel xayah (feathers trigger revel trait) 
+- Mage spat on Ao shin, Asol, Bard
+- Mage corki (no mana lock + low mana cost means with blue buff + blue battery setup just perma casts) 
+- Manazane ryze (helps deal with the problem of his mana cost increasing per cast)  
  
 Meta (what people are playing) 
 - 6 whispers Syfen carry 
