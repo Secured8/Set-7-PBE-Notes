@@ -1,6 +1,4 @@
-Last edited on 26/05/2022
-
-PBE Patch 25/05 
+PBE Patch 27/05 
 
 SET 7 PBE COMPS I'VE TRIED
 - 6 whispers Syfen carry 
@@ -12,49 +10,55 @@ SET 7 PBE COMPS I'VE TRIED
 - 6 guardian reroll (abusing heroic presence augment)
 - 9 ragewing xayah and shyvanna duo carry 
 - 9 jade shi oh yu, neeko and yas trio carry 
+- Cannoneer + trainer trist reroll
+- Lee sin reroll
+- Linear Scalescorn Olaf Diana carry
+- Astral reroll
+- Mirage | 8 mirage exectuioner's edge (spat on aatrox), 6 mirage 6 dragonmancer nunu carry (dawnbringer) 
 
 Yet to try
 - Linear guild
 - Linear tempest 
 - Linear shimmerscale
-- Mirage | Yone reroll, daeja yas duo carry
-- Astral reroll
-- Scalescorn Olaf carry
-- Cannoneer + trainer trist reroll
-- Diana reroll
-- Lee sin reroll (with blue battery setup) | On paper seems to have the same problem as syndra from set 6.5. Sucks when they build qss. 
+- Qiyana reroll 
+ 
 
 THE TECH 
 - Whisper daeja (soju proved that this is broken cause he stacks infinite due to his barrages)
 - Whisper xayah (credit to showtime/emitwohs who played this in a lobby with soju. same logic to why daeja is broken with whisper) 
-- Sin neeko (yet to try but seems strong in theory)
-- Gadget expert | Shiv spam and make ezreal hold items early. Either reroll ezreal and other low cost swiftshots or reroll ashe into 9 jade. 
-- Heroic presence | Reroll guardians when playing this augment. Very good against carries who auto or cast alot. Extremely strong. Weak against units who do big burst dmg. 
-- Elise carry | Bis being ie jg gs and is actually pretty decent just go 6 whisper with syfen duo carry (soju proved this is lowkey nuts and elise gets infinite resets + untargetable) 
+- Sin neeko 
+- Gadget expert | Shiv spam and make ezreal hold items early. R reroll ezreal and other low cost swiftshots units . 
+- Heroic presence | Reroll guardians when playing this augment. Very good against carries who auto or cast alot. Extremely strong. Weak against units who do big burst dmg.  
 - Swift spat jinx and reroll her | She perma casts meaning perma stun on backline while your swiftshots kill their whole team
 - Revel xayah (feathers trigger revel trait) 
 - Mage spat on Ao shin, Asol, Bard
-- Mage corki (no mana lock + low mana cost means with blue buff + blue battery setup just perma casts) 
+- Mage corki 
 - Manazane ryze (helps deal with the problem of his mana cost increasing per cast)  
- 
+- Dawnbringer nunu with dragonmancer spat 
+- Dragonmancer pyke 
+
+Fast 9 units
+2 costs
+- Qiyana
+
+3 costs
+- Diana
+- Elise
+- Leesin
+- Volibear
+
 Meta (what people are playing) 
-- 6 whispers Syfen carry 
 - 9 jade Shi oh yu carry
-- 9 Ragewing Xayah and Shyvanna duo carry
-- Astral reroll 
-- Volibear reroll (6 dragonmancer 3 legend) 
-- Linear guild Talon carry
+- Dragonmancer boards (Voli most popular but I've seen lee and swain reroll)
 - Revel corki carry
-
+- Mages | Ryze zoe duo carry carry
+- Mirage boards 
+- Scalescorns Diana Olaf reroll 
+- Astral reroll 
+ 
 Notable mentions (not as popular as meta comps but still seen/somewhat played) 
-- Linear mirage daeja and yas duo carry
-- Mages | Ryze carry vairant or cone stack zoe carry
-- Olaf carry 
-- Linear shimmerscale
-- Linear tempest
-- Trainer reroll 
-
-What's "trash"? (no one wants to try cause think it's so bad) 
-Linear warrior (zero potential is literally just trash rn) 
-Linear shapeshifters (more potential than warriors and I think people should be attempting to theorycraft. seems not very good on paper though)
-
+- Shimmerscale boards
+- Ragewing Xayah and Shyvanna duo carry
+- Linear guild Talon carry
+- 6 whispers Syfen carry 
+- Trainer cannoneer reroll 
