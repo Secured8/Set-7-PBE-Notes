@@ -41,7 +41,6 @@ Fast 9 units
 
 3 costs
 - Diana
-- Elise
 - Leesin
 - Volibear
 
